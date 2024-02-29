@@ -135,16 +135,14 @@ const Contact = () => {
         "service_xwy7fm2",
         "template_v152spo",
         form.current,
-        "zniCAsHj7ENe_5nb_"
-      )
+        "zniCAsHj7ENe_5nb_")
       .then(
-        (result) => {
-          alert("Message Sent Successfully");
-          form.current.result();
+        () => {
+          alert("Thank you for reaching out to me, I will get back to you soon!");
         },
         (error) => {
           alert(error);
-        }
+        },
       );
   };
 
@@ -156,7 +154,7 @@ const Contact = () => {
         <Desc>
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
-        <ContactForm onSubmit={handleSubmit}>
+        <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
