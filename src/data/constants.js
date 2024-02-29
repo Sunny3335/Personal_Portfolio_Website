@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sunny3335",
   resume:
-    "https://drive.google.com/file/d/1PwT_t4eaR6iAquzjcRyrr2QNKsoPndL2/view?usp=sharing",
+    "https://drive.google.com/file/d/1QvcD7Zt8cM6F38xdGo0GW48wUeP8cvf-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sunny-kumar-a10a0720a/",
   twitter: "https://twitter.com/cXUwc0KFmb48QYU",
   insta: "https://instagram.com/itz_sunny.exe?igshid=MzMyNGUyNmU2YQ==",
