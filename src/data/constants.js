@@ -198,150 +198,64 @@ export const projects = [
     description:
       "Developed a fully Responsive and User friendly web application that allows users to search for, Movies, Dramas, TV Shows, crimes Web Series and Movie trailer of new latest trending movies. This Web Application is also provide Character with brief Description, User rating and reviews, Like & Dislike buttons and Overall rating. ",
     image:
-      "https://private-user-images.githubusercontent.com/127536182/308664045-3338b870-6372-4701-85d9-59a3a1ef1e05.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxOTE2OTAsIm5iZiI6MTcwOTE5MTM5MCwicGF0aCI6Ii8xMjc1MzYxODIvMzA4NjY0MDQ1LTMzMzhiODcwLTYzNzItNDcwMS04NWQ5LTU5YTNhMWVmMWUwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQwNzIzMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OTY4OGQ0YzIyNjc5ZDRlZGE2OTU0ZDBkNDExMWE4OGMxZDJlODZmYTA5ZTNlOTdjZmVmNmM2M2M5MGU5YTVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Z37-Pn4cbQTM4bH2f5llOGGzxzjxv7tXJMGALqXpYRw",
-    tags: ["React Js", "Redux","ReactJS","Redux","HTML","CSS","JavaScript","Firebase"],
+      "https://private-user-images.githubusercontent.com/127536182/308664045-3338b870-6372-4701-85d9-59a3a1ef1e05.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxOTIxMzgsIm5iZiI6MTcwOTE5MTgzOCwicGF0aCI6Ii8xMjc1MzYxODIvMzA4NjY0MDQ1LTMzMzhiODcwLTYzNzItNDcwMS04NWQ5LTU5YTNhMWVmMWUwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQwNzMwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZDhhZDdlNmM1ZjhkYzU5ZWRlNTI5NzU3MDMwNTM1MGY2N2I4NDBmM2I0MGMzNGVkZjgxMmMzZWUyOGJkMGIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yhRyE0X9zjry4Sctkt950k2GTbGR05194H0c7qCUwM8",
+    tags: ["ReactJs", "Redux","HTML","CSS","JavaScript","Firebase"],
     category: "web app",
     github: "https://github.com/Sunny3335/Entertainment-_video_hub",
     webapp: "https://entertainment-video-hub.vercel.app/",
   },
   {
     id: 1,
+    title: "Personal Portfolio Website",
+    date: "Nov 2024 - Feb 2024",
+    description:
+      "Developed a fully Responsive and User friendly Personal Portfolio Website that showcasing a diverse range of Skills, Professional work, Projects & Achievements. It has Email Integration and Live chat that allows theuser to connect with me.",
+    image:
+      "https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_8NtMtJGNaevcXw4VDZfrbfEb8YvK%26teamId%3Dsunny3335%26withStatus%3D1&w=640&q=75&dpl=dpl_Bg4SViBcuwpGGQEBd47FhcXUp7s1",
+    tags: ["ReactJs", "Redux ToolKit","HTML","CSS","JavaScript","Emailjs", "FrameMotion"],
+    category: "web app",
+    github: "https://github.com/Sunny3335/Personal_Portfolio_Website",
+    webapp: "https://codecraftsmansunny.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Api Coin App",
     date: "June 2023 - Aug 2023",
     description:
       "Enhanced user experiences on Frontend development part & Responsive Design & reduced load time by 40%. Developed a Coin API App that utilizes APIs to access and retrieve data related to Cryptocurrencies. It helps users to track prices, historical data and trends of different coins.",
     image:
       "https://private-user-images.githubusercontent.com/127536182/308661981-f256e862-d722-4d55-8a60-2138d7938cd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxOTE4MTMsIm5iZiI6MTcwOTE5MTUxMywicGF0aCI6Ii8xMjc1MzYxODIvMzA4NjYxOTgxLWYyNTZlODYyLWQ3MjItNGQ1NS04YTYwLTIxMzhkNzkzOGNkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQwNzI1MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NGE2ODVmODkyZWU2MjYyMzIzMGVjMzlkMDY2MWRiYzhlOTY1N2Y4MzU1YmRkMDA0NzlmNTcyNGQyMTE0OTY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iamu1Cg12k2n3XbJg6bvtrrDdZKYHXfI8nql2SDhbVc",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
+    tags: ["ReactJs", "Redux","HTML","CSS","JavaScript","Api KEY"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/Sunny3335/Coin_api_App",
+    webapp: "https://coin-api-m7wtphe5u-sunny3335.vercel.app/",
   },
-  /* {
-    id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
+
   {
     id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
+    title: "Weather App API",
+    date: "June 2023 - July 2023",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "Created an end-to-end development of a weather web application, offering users up-to-date meteorological data, forecasts, and user-friendly map interfaces. Integrated weather APIs to fetch real-time information and implementated data visualization for improved weather data comprehension.",
     image:
-      "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+      "https://private-user-images.githubusercontent.com/127536182/308841744-5483350b-d959-4edc-aa7c-be8e7b81eacf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxOTM4ODgsIm5iZiI6MTcwOTE5MzU4OCwicGF0aCI6Ii8xMjc1MzYxODIvMzA4ODQxNzQ0LTU0ODMzNTBiLWQ5NTktNGVkYy1hYTdjLWJlOGU3YjgxZWFjZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQwNzU5NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZmM2N2IyM2U3YTVkZWI1MDhkYzQ3YjUxOGQ2ZjViZjBiOTBjOGJlMTg2YTQ2ZjA0Y2EzMTY3NDExZjZiMTgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.TmYEIVN8ynYdGW7XW6GvGTD9myWri6-vy_C3wrK2iAU",
+    tags: ["HTML","CSS","JavaScript"],
+    category: "web app",
+    github: "https://github.com/Sunny3335/Weather-Web-App",
+    webapp: "https://weatherapiwebapp.netlify.app/",
   },
   {
     id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
+    title: "To-Do List",
+    date: "Jun 2023 - Jul 2023",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "Developed a task management application that streamlined organization and productivity.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+      "https://private-user-images.githubusercontent.com/127536182/308843294-0a2e0e51-2958-439a-bc8d-6c712241a4ee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxOTQyMTYsIm5iZiI6MTcwOTE5MzkxNiwicGF0aCI6Ii8xMjc1MzYxODIvMzA4ODQzMjk0LTBhMmUwZTUxLTI5NTgtNDM5YS1iYzhkLTZjNzEyMjQxYTRlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQwODA1MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2E5NzU0NjBlNzQ2NzkxYmQzNmQ4NTcwOTRhN2FiYTQxNDQ4MWQwM2VmNTZjY2YzNGFkNzBhYjg4ZTE0MjBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.tlrMvXdB0bLkWCS0X09NNb6tcid0a78HZUXhFHXaetk",
+    tags: ["HTML","CSS","JavaScript"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/Sunny3335/TO-DO-List",
+    webapp: "https://todoroutine.netlify.app/",
   },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
-    description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-    image:
-      "https://camo.githubusercontent.com/937774368308a82419f53dd6eeb4a8675780e119636488b4e3cfe5d34859a72a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
-  },
-  {
-    id: 7,
-    title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  {
-    id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
-    description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
- */
 ];
 
