@@ -96,6 +96,7 @@ const Avatar = styled.img`
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   border: 3px solid ${({ theme }) => theme.card};
 `;
+// eslint-disable-next-line
 const Button = styled.a`
   color: ${({ theme }) => theme.primary};
   text-decoration: none;
