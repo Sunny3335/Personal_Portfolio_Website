@@ -16,6 +16,7 @@ const Nav = styled.div`
   z-index: 10;
   color: white;
 `;
+
 const ColorText = styled.div`
   color: ${({ theme }) => theme.primary};
   font-size: 32px;

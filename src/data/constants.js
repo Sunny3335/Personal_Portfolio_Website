@@ -3,12 +3,11 @@ export const Bio = {
   name: "Sunny Kumar",
   roles: [
     "Frontend Developer",
-    "Backend Developer",
+    "Software Engineer",
     "Programmer",
-    "Full Stack Developer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges With a passion for learning. I am dedicated to delivering high-quality results With a positive attitude and a growth mindset. I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, always eager to take on new challenges With a passion for learning. I am dedicated to delivering high quality results With a positive attitude and a growth mindset. I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sunny3335",
   resume:
     "https://drive.google.com/file/d/1QvcD7Zt8cM6F38xdGo0GW48wUeP8cvf-/view?usp=sharing",
@@ -170,9 +169,9 @@ export const education = [
     id: 0,
     img: "https://www.tezu.ernet.in/images/tulogo.png",
     school: "Tezpur Central University",
-    date: "Dec 2020 - May 2024",
-    grade: " 7.53 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Tezpur Central University, Assam. I build WebApps and Websites using frontend web tools and Working for myself to improve my skills of Full Stack Development. Love to build Full-Stack web Apps.",
+    date: "Dec 2020 - June 2024",
+    grade: "7.62 CGPA",
+    desc: "I have completed a Bachelor's degree in Electronics and Communication Engineering at Tezpur Central University, Assam. I build WebApps and Websites using frontend web tools and Working for myself to improve my skills of Full Stack Development. Love to build Full-Stack web Apps.",
     degree: "Bachelor of Technology - B.Tech, Electronics and Communication Engineering",
   },
   {
@@ -181,7 +180,7 @@ export const education = [
     school: "Bihar School Examination Board, BSEB",
     date: "Apr 2017 - Apr 2019",
     grade: " 85.8%",
-    desc: "I completed my class 12 high school education at Ashok Inter High School, Aurangabad, where I studied Physics, Chemistry, Mathematics.",
+    desc: "I have completed my class 12 high school education at Ashok Inter High School, Aurangabad, where I studied Physics, Chemistry, Mathematics.",
     degree: "BSEB(XII), Science with Maths",
   },
   {
@@ -190,7 +189,7 @@ export const education = [
     school: "Bihar School Examination Board, BSEB",
     date: "Apr 2016 - Apr 2017",
     grade: " 79.8%",
-    desc: "I completed my class 10 education at Ashok Inter High School, Aurangabad, where I studied Science and Mathematics.",
+    desc: "I have completed my class 10 education at Ashok Inter High School, Aurangabad, where I studied Science and Mathematics.",
     degree: "BSEB(X), Science with Maths",
   },
 ];
