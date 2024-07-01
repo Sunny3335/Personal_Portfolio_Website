@@ -173,7 +173,7 @@ export const education = [
     img: "https://www.tezu.ernet.in/images/tulogo.png",
     school: "Tezpur Central University",
     date: "Dec 2020 - June 2024",
-    grade: "7.62 CGPA",
+    grade: " 7.62 CGPA",
     desc: "I have completed a Bachelor's degree in Electronics and Communication Engineering at Tezpur Central University, Assam. I build WebApps and Websites using frontend web tools and Working for myself to improve my skills of Full Stack Development. Love to build Full-Stack web Apps.",
     degree: "Bachelor of Technology - B.Tech, Electronics and Communication Engineering",
   },
@@ -219,7 +219,7 @@ export const projects = [
     description:
       "Developed a fully Responsive and User friendly Personal Portfolio Website that showcasing a diverse range of Skills, Professional work, Projects & Achievements. It has Email Integration and Live chat that allows theuser to connect with me.",
     image:
-      "https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_8NtMtJGNaevcXw4VDZfrbfEb8YvK%26teamId%3Dsunny3335%26withStatus%3D1&w=640&q=75&dpl=dpl_Bg4SViBcuwpGGQEBd47FhcXUp7s1",
+      "https://drive.google.com/file/d/1yTNLiNEkAExbebIcnvw_MlMblGsHrTHz/view?usp=sharing",
     tags: ["ReactJs", "Redux ToolKit","HTML","CSS","JavaScript","Emailjs", "FramerMotion"],
     category: "web app",
     github: "https://github.com/Sunny3335/Personal_Portfolio_Website",
